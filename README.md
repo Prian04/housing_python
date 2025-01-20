@@ -27,3 +27,6 @@ This project involves analyzing London housing data using Python and key librari
 Key Python commands included pd.read_csv, df.groupby(), sns.heatmap(), plt.show(), and more for data transformation and visualization.
 
 This project demonstrates effective use of Python for data cleaning, analysis, and visualization to derive insights from the London housing dataset.
+
+## Dataset:
+The dataset used in this project is publicly available at [London Housing Dataset](https://datasciencelovers.graphy.com/products/64e0b8e6af71f92061d53206?dgps_u=l&dgps_s=ucpd&dgps_t=cp_u&dgps_u_st=u&dgps_uid=677cc155123d571a60231d72). Full credit goes to the original creator of the dataset.
